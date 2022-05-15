@@ -1,10 +1,10 @@
 {
-  "name": "node-png",
+  "name": "node-png2",
   "version": "0.4.3",
   "description": "Simple PNG encoder/decoder",
   "author": "Kuba Niegowski",
   "contributors": [],
-  "homepage": "https://github.com/niegowski/node-pngjs/",
+  "homepage": "https://github.com/exdeusdev/node-pngjs2/",
   "keywords": [
     "png"
   ],
